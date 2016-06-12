@@ -73,20 +73,5 @@
     "filtered": 95888, 
     "type": "sgv", 
     "glucose": 95
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "display_time": "2016-06-12T00:43:24-07:00", 
-    "system_time": "2016-06-12T06:40:48-07:00", 
-    "direction": "Flat", 
-    "sgv": 96, 
-    "dateString": "2016-06-12T00:43:24-07:00", 
-    "device": "openaps://cgm", 
-    "unfiltered": 95760, 
-    "rssi": 194, 
-    "date": 1465717404000, 
-    "filtered": 96816, 
-    "type": "sgv", 
-    "glucose": 96
   }
 ]
